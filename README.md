@@ -5,7 +5,7 @@ Well, github is SUPPOSED to be open source so... I THINK IM FINE.
 
 Anyways, heres the website for you to try it out: https://githubemploy.github.io/GithubDarkModeButton/
 
-And heres the embed, (may not show instantly):
+And heres the embed, (may be broken):
 
 
-![Mohit Varikuti's Github stats](https://githubemploy.github.io/GithubDarkModeButton)
+<embed src="https://githubemploy.github.io/GithubDarkModeButton" style="width:500px; height: 300px;">
